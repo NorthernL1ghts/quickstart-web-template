@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+
+$container-size: 90rem;
+
+$text-color: #222;
+$text-color-muted: #4f4f4f;
+$text-color-white: #fff;
+$text-color-footer: #cccccc;
+
+$font-main: "Inter", sans-serif;
+$font-size: clamp(0.875rem, 0.83rem + 0.23vw, 1rem);
+$font-size-title: 48px;
+$font-size-subtitle: 24px;
+$font-size-footer: 0.8rem;
+
+$primary-bg-color: #ffffff;
+$secondary-bg-color: #f5f5f5;
+$accent-color: #111111;
+$footer-bg-color: #111111;
+
+$button-dark-hover: #333;
+$border: 1px solid rgba(255, 255, 255, 0.03);
+$box-shadow: 0 2px 2px rgba(0, 0, 0, 0.03), 0 4px 4px rgba(0, 0, 0, 0.03),
+  0 8px 8px rgba(0, 0, 0, 0.03), 0 16px 16px rgba(0, 0, 0, 0.03);
